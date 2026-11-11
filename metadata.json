@@ -1,0 +1,6 @@
+{
+  "name": "DSP Highlights | ONErpm",
+  "description": "Dashboard de acompanhamento de destaques musicais, capas, charts semanais e comparativos de DSPs da ONErpm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
